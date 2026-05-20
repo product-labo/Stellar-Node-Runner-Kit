@@ -86,7 +86,7 @@ lifecycle automation
 standardized configurations
 Installation
 Clone Repository
-git clone https://github.com/yourusername/stellar-node-runner-kit.git
+git clone https://github.com/product-labo/stellar-node-runner-kit.git
 cd stellar-node-runner-kit
 Install Dependencies
 make install
